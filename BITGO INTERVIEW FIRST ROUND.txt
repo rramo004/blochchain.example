@@ -1,0 +1,56 @@
+BitGo First Round Interview with Jorge Valdeiglesias
+
+- 4 People on his team (6 to 8 people to join)
+
+- Background personally and professionally
+	- Education from UC-Riverside BS in computer engineering and MS is computer science.
+	- Been a software engineer/developer within the defense contracting world for about 9/10 years with various different companies (GA, NG, Alion, BAE Systems, Leidoes).
+	- I am somebody who loves to work hard, as hard works develops good habits.
+	- It enables me to continually learn, and gives me a sense of achievement and makes me feel positive/satisfied at work.
+	- If I do get the opportunity to become a member of your team and organization, I will always work hard and contribute postively to the goals of the team
+	  and will always focus on the long term vision of the organization to ensure it goals of furthering the financial infrastructure for digital asset industry as a market innovator and leader.
+- Microservices and languages
+	- Java, C/C++
+	- Spring 
+	- Angular (Experience with Angular 4+, during my brief time with BAE Systems)
+	- Micrcoservices (Split up application micro service apps which communicated via JMS through pub/sub architechture with each other, hosted by Glassfish server).
+	- REST 
+- BitGo homework research
+	- Full Service Digital Assset Platform
+	- Custody (Wallet Platform, Cold storage, local key security)
+        - Prime Services (Trades, lending, and settlements)
+	- Portfolio tools (managements of digital assets, Tax reporting)
+
+- Generally understanding of blockchain
+
+- Ethereum vs. Bitcoin (open monetary market)
+	- Bitcoin is proof of work (miners/mining)
+		- Digital gold.
+	- Ethereum is proof of stake (validators/forging)
+		- Smart Contracts --> digital ledger (e.g. between supporters/funders and product team)
+			- supporters put money into a smart contracts
+			- If product team satisfies contract, they get funded, if not supporters get money back.
+			(Program lives within the blockchain, which executes when certain conditions are met).
+		- Network currency, Platform to build upon new blockchains/coins
+
+
+
+
+- What do I hope to get out of working at BitGo? Further the digital asset industry.
+	-I want to work at BitGo for reasons
+	1. I believe this is a place where I see myself in the long term future.
+	2. I believe that BitGo is a place that will allow me to learn, grow and develop.
+	3. I believe that BitGo is in the forefront of innovation with this young aged digital asset industry.
+	
+
+- How do I like to be managed? Thoughts on Agile?
+	- I like being coached when needed, but most of the time I like being delegated work.
+
+	- Agile is great, the idea of being able to adapt and quick change direction, approches, design, code, etc to meet demands is important for the ever changing technology needs.
+
+
+
+
+
+- technical questions, Java and spring - API integration.
+- leetCode questions.
